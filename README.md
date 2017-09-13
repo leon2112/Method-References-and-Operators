@@ -1,2 +1,2 @@
 # Method-References-and-Operators
-Java 8 program that shows the working of new features in functional java like stream, filter, map and fucnction creation
+Since java 8 is relatively new to me here are some code samples that demonstrate me using the stream iterator provided in java 8 and I also use the filter method to basically filter out the necessary values by passing in the behvaiour or action as input.The map function transforms the incoming input to the desired value and the find first method returns the first value that satisfies the condition. I also have demonstrated the use of method refrences and creation of new inline functions which is another concept introduced in java 8
